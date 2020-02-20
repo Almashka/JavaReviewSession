@@ -9,6 +9,7 @@ public class DoubleDoWhiles {
             }
             while(column <= row);
             System.out.println();
+            System.out.println("End of code");
             row++;
         }
         while(row <= 6);
